@@ -7,6 +7,7 @@ name = "pypi"
 jupyterlab = "*"
 jedi = "*"
 python-lsp-server = "*"
+sympy = "*"
 
 [dev-packages]
 
