@@ -8,6 +8,7 @@ jupyterlab = "*"
 jedi = "*"
 python-lsp-server = "*"
 sympy = "*"
+graphviz = "*"
 
 [dev-packages]
 
